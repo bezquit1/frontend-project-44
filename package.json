@@ -1,19 +1,23 @@
 {
-  "name": "@hexlet/code",
-  "version": "1.0.0",
-  "description": "Brain_Games",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bezquit1/frontend-project-44.git"
-  },
-  "author": "Anton Chechulin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bezquit1/frontend-project-44/issues"
-  },
-  "homepage": "https://github.com/bezquit1/frontend-project-44#readme"
+    "name": "@hexlet/code",
+    "version": "1.0.0",
+    "description": "Brain_Games",
+    "type": "module",
+    "main": "index.js",
+    "bin": {
+        "brain-games": "bin/brain-games.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bezquit1/frontend-project-44.git"
+    },
+    "author": "Anton Chechulin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bezquit1/frontend-project-44/issues"
+    },
+    "homepage": "https://github.com/bezquit1/frontend-project-44#readme"
 }
