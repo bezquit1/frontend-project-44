@@ -1,5 +1,5 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/bezquit1/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bezquit1/frontend-project-44/actions)
+| **Actions Status** | [![Actions Status](https://github.com/bezquit1/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/bezquit1/frontend-project-44/actions)
 
 ### Code Quality
 | **Quality Gate** | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bezquit1_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=bezquit1_frontend-project-44)
@@ -14,5 +14,5 @@
 | **Maintainability Rating** | [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=bezquit1_frontend-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=bezquit1_frontend-project-44)
 | **Vulnerabilities** | [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=bezquit1_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=bezquit1_frontend-project-44)
 
-###Link to installation and operation of the game
+### Link to installation and operation of the game
 | **Link asciicast.org** | [![asciicast](https://asciinema.org/a/DfGK5qpTuqv2XukD.svg)](https://asciinema.org/a/DfGK5qpTuqv2XukD)
