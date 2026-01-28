@@ -22,3 +22,6 @@
 
 ### Link to operation of the brain-gcd game
 | **Link asciicast.org** | [![asciicast](https://asciinema.org/a/FEx915kG5z2AqIvb)](https://asciinema.org/a/FEx915kG5z2AqIvb)
+
+### Link to operation of the brain-progression game
+| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/tV6XsjJVcpUOzwk5)](https://asciinema.org/a/tV6XsjJVcpUOzwk5)
