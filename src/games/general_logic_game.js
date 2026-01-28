@@ -26,7 +26,7 @@ Let's try again, ${userName}!`);
     }
 
     if (correctAnswerCount === roundToWin) {
-        console.log(`Congratulations, ${userName}`);
+        console.log(`Congratulations, ${userName}!`);
         return;
     }
 };

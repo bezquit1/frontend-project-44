@@ -10,8 +10,8 @@ const isPrimeNum = (num) => {
         if (num % i === 0) {
             return false;
         }
-        return true;
     }
+    return true;
 };
 const getRound = () => {
     const randomNum = Math.floor(Math.random() * 101);
