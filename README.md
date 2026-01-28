@@ -14,14 +14,19 @@
 | **Maintainability Rating** | [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=bezquit1_frontend-project-44&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=bezquit1_frontend-project-44)
 | **Vulnerabilities** | [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=bezquit1_frontend-project-44&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=bezquit1_frontend-project-44)
 
+
+
 ### Link to installation and operation of the brain-even game
-| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/DfGK5qpTuqv2XukD)](https://asciinema.org/a/DfGK5qpTuqv2XukD)
+| **Link to asciicast.org** | [![asciicast](https://asciinema.org/a/DfGK5qpTuqv2XukD)](https://asciinema.org/a/DfGK5qpTuqv2XukD)
 
 ### Link to operation of the brain-calc game
-| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/qx9RqMZec1SdOJH8)](https://asciinema.org/a/qx9RqMZec1SdOJH8)
+| **Link to asciicast.org** | [![asciicast](https://asciinema.org/a/qx9RqMZec1SdOJH8)](https://asciinema.org/a/qx9RqMZec1SdOJH8)
 
 ### Link to operation of the brain-gcd game
-| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/FEx915kG5z2AqIvb)](https://asciinema.org/a/FEx915kG5z2AqIvb)
+| **Link to asciicast.org** | [![asciicast](https://asciinema.org/a/FEx915kG5z2AqIvb)](https://asciinema.org/a/FEx915kG5z2AqIvb)
 
 ### Link to operation of the brain-progression game
-| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/tV6XsjJVcpUOzwk5)](https://asciinema.org/a/tV6XsjJVcpUOzwk5)
+| **Link to asciicast.org** | [![asciicast](https://asciinema.org/a/tV6XsjJVcpUOzwk5)](https://asciinema.org/a/tV6XsjJVcpUOzwk5)
+
+### Link to operation of the brain-prime game
+| **Link to asciicast.org** | [![asciicast](https://asciinema.org/a/1pc8rZijKWKceMTs)](https://asciinema.org/a/1pc8rZijKWKceMTs)
