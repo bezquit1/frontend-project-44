@@ -19,3 +19,6 @@
 
 ### Link to operation of the brain-calc game
 | **Link asciicast.org** | [![asciicast](https://asciinema.org/a/qx9RqMZec1SdOJH8)](https://asciinema.org/a/qx9RqMZec1SdOJH8)
+
+### Link to operation of the brain-gcd game
+| **Link asciicast.org** | [![asciicast](https://asciinema.org/a/FEx915kG5z2AqIvb)](https://asciinema.org/a/FEx915kG5z2AqIvb)
