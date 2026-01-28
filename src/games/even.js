@@ -1,6 +1,6 @@
 import runGame from './general_logic_game.js'
 
-const isEven = (num) => num % 2 === 0
+const isEven = num => num % 2 === 0
 
 const getRound = () => {
   const randomNum = Math.floor(Math.random() * 101)
